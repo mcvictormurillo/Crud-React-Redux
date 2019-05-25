@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+
+.card-shadow{
+  
+  -webkit-box-shadow: 11px 12px 8px -10px rgba(179,177,179,1);
+-moz-box-shadow: 11px 12px 8px -10px rgba(179,177,179,1);
+box-shadow: 11px 12px 8px -10px rgba(179,177,179,1);
+}
+
+.card-hover:hover{
+  border-color: #61dafb;
+}
